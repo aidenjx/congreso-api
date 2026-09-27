@@ -1,0 +1,10 @@
+{
+    "name": "aiden/congreso-api",
+    "authors": [
+        {
+            "name": "Jinx",
+            "email": "jinxynet@duck.com"
+        }
+    ],
+    "require": {}
+}
